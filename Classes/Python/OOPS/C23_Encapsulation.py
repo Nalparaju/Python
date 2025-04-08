@@ -107,3 +107,12 @@ class Math:
 print(Math.add(2,3))
 print(Math.mutliply(2,3))
 
+#----------------------------------------------------------------------------------------------------------------------------
+#Encapsulation
+'''
+1. Capsule - Container or Protective shell
+2. En      - Inside the container or protective shell 
+
+The process enclosing something within a protective shell is called encapsulation
+Internal data/methods ni direct access ivakunda protect cheyadanike manam encapsulation use chestamu
+'''
